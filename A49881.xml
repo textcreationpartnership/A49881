@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and faithful coppy of a real letter written by a friend in Utrecht to a friend in London giving an account of some remarkable passages relating to His Grace James Duke of Monmouth.</title>
+            <author>B. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49881</idno>
+            <idno type="STC">Wing L8</idno>
+            <idno type="STC">ESTC R26834</idno>
+            <idno type="EEBO-CITATION">09558645</idno>
+            <idno type="OCLC">ocm 09558645</idno>
+            <idno type="VID">43622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and faithful coppy of a real letter written by a friend in Utrecht to a friend in London giving an account of some remarkable passages relating to His Grace James Duke of Monmouth.</title>
+                  <author>B. L.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: B.L.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:43622:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <head>A True and faithful Coppy of a real LETTER, Written by a Friend in UTRECHT, To a Friend in LONDON.</head>
+            <head type="sub">Giving an Account of ſome remarkable Paſſa<g ref="char:EOLhyphen"/>ges, relating to his Grace <hi>JAMES,</hi> Duke of <hi>MONMO<g ref="char:V">Ʋ</g>TH.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs bearing date the 2<hi>d.</hi> Inſtant, came ſafe to my hands, whereby you were pleaſed to deſire me to give you a particular Account of the Reception of his Grace, <hi>James,</hi> Duke of <hi>Monmouth,</hi> together with a particular Relati<g ref="char:EOLhyphen"/>on of ſuch other Accidents as might occaſionally happen ſince his Arrival You know at all times your requeſts with me have the power of Com<g ref="char:EOLhyphen"/>mands and in compliance to the ſame, I ſhall with all poſsible Care and ſincerity, give you both an ample and real account of all ſuch paſſages as I
+<pb n="2" facs="tcp:43622:2"/>
+               <!-- PDF PAGE 62 -->
+dare affirm to be true, which though but few yet I hope may ſatisfie your curioſity at preſent, until ſuch times as any Obſervations permit me to in<g ref="char:EOLhyphen"/>form you more particularly.</p>
+            <p>On the tenth inſtant, the Duke arrived at the <hi>Hague,</hi> where he took up his reſidence at the Engliſh Agents Houſe, being reſolved with withall expedition to come hither, the next day he dined with the Prince and Princeſs of <hi>Orange;</hi> and ſo with what expedition he could came hither, and reſided at the houſe of one of our principal Burghers, until ſuch time his own houſe could be decently fitted up beauti<g ref="char:EOLhyphen"/>fied and repaired, being at <hi>Rhenen</hi> in this Pro<g ref="char:EOLhyphen"/>vince not far diſtant from this place; he was tranſported in one of his Majeſties Yachts, with a Train of about twenty perſons, which he hath now increaſed to about thirty: this houſe Prince <hi>Rupert</hi> was pleaſed to accommo<g ref="char:EOLhyphen"/>date him withal he hath beſtowed, no ſuch coſt in beautifiing the ſame, but what may rather ſuit with the Quality of a Baniſhed peer, then a Prince of his extraction, this day being the 10 inſtant (having before took a progreſs into the Countrey of <hi>North-Holland</hi>) he entred his ſaid houſe the next day, being complemented by the Magjeſtrates, and other perſons of quali<g ref="char:EOLhyphen"/>ty here reſident, with this aſſurance, that he ſhould not only be as ſafe, but as welcome to them as if he were at home, and to ſpeak the
+<pb n="3" facs="tcp:43622:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 62 -->
+truth, ſuch hath been his Noble deportment, ſince his arrival, that he hath obtained the hearts of all, as well Gentry, as Commonalty, before his ſettelment, in his preſent place of aboad, he was much indiſpoſ'd in his health, occaſioned as ſome conceive by a great cold, by what I can inform my ſelf, from ſome of the moſt emi<g ref="char:EOLhyphen"/>nent of his retinue, it was no other then a real Quotidian Ague, though (thanks be to God) we hope it has wholly left him, he having not been lately troubled with the ſame. I have had the Honour to kiſs his hand ſince his Ar<g ref="char:EOLhyphen"/>rival, and although I dare not preſume to ſay I have been Converſant with him, yet by what I have both heard and been a Spectator of (not only I, but many others beſides my ſelf, eſteem him to be one of the moſt accompliſhed Peers in Chriſtendome. You would admire to ſee how not only our Gentry, but Commonalty reſpect and honour him: with a ſorrow com<g ref="char:EOLhyphen"/>pounded of Love and pitty; had he been their own Native Prince, and ſpent his Heart Blood in their Defence, on my Conſcience, they could not ſet a greater Vallue or eſteem upon him than they have done, and ſtill do. Sir, in a word, I need ſay no more in his Com<g ref="char:EOLhyphen"/>mendation than only this, I am confident he cannot be more honoured, or better beloved at home, than he is here; ſuch is his noble ob<g ref="char:EOLhyphen"/>liging Carriage, who neither carries himſelf
+<pb n="4" facs="tcp:43622:3"/>
+               <!-- PDF PAGE 63 -->
+Lofty nor low, but with ſuch a becoming Grace, that Commands the very Affections of all.</p>
+            <p>In my next I ſhall inform you of ſome o<g ref="char:EOLhyphen"/>ther conſiderable paſſages, which at preſent I am forced to wave, until I am more fully ſa<g ref="char:EOLhyphen"/>tisfied of their Truth, what I have now writ<g ref="char:EOLhyphen"/>ten is a reallity in all circumſtances, which to confirm your Belief, ſhall be atteſted under the hand of</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humble Servant, <hi>B. L.</hi>
+               </signed>
+               <dateline>
+                  <g ref="char:V">Ʋ</g>TRECHT,
+<date>Octob. 19. 1679.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
